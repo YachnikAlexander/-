@@ -1,2 +1,2 @@
 # AutomationTestingMMF
-Repository for study Automation testing
+Repository Automation testing
